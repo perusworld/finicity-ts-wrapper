@@ -1,7 +1,6 @@
-# Node.js TypeScript Module - Base #
+# Finicity Typescript Wrapper API #
 
-##Notes
-Make sure to run the following to generate the typescript bindings before you checkin to a deploy repo
+## Install
 ```bash
-npm run build
+npm i https://github.com/perusworld/finicity-ts-wrapper.git
 ```

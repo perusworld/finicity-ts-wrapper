@@ -1,7 +1,7 @@
 {
-  "name": "node-ts-base",
-  "version": "1.2.0",
-  "description": "Node.js TypeScript Module - Base",
+  "name": "finicity-ts-wrapper",
+  "version": "0.0.1",
+  "description": "Finicity Typescript Wrapper API",
   "main": "dist/index",
   "types": "dist/index",
   "scripts": {
@@ -24,19 +24,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/perusworld/node-ts-base.git"
+    "url": "git://github.com/perusworld/finicity-ts-wrapper.git"
   },
   "keywords": [
     "nodejs",
     "typescript",
     "module"
   ],
-  "author": "Saravana Perumal Shanmugam <saravanaperumal@msn.com>",
+  "author": "Saravana Perumal Shanmugam <perusworld@linux.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perusworld/node-ts-base/issues"
+    "url": "https://github.com/perusworld/finicity-ts-wrapper/issues"
   },
-  "homepage": "https://github.com/perusworld/node-ts-base",
+  "homepage": "https://github.com/perusworld/finicity-ts-wrapper",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.11",
